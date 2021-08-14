@@ -1,0 +1,8 @@
+.app-container{
+    display: flex;
+    margin-top: 0px;
+}
+.content{
+    flex: 4;
+    background-color: red;
+}
